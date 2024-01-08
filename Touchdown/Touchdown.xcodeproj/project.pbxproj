@@ -31,6 +31,8 @@
 		5D747CB52B4A87A30068B0D0 /* ProductModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D747CB42B4A87A30068B0D0 /* ProductModel.swift */; };
 		5D747CB72B4A883F0068B0D0 /* ProductItemView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D747CB62B4A883F0068B0D0 /* ProductItemView.swift */; };
 		5D747CB92B4BD0560068B0D0 /* BrandModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D747CB82B4BD0560068B0D0 /* BrandModel.swift */; };
+		5D747CBB2B4BD0C60068B0D0 /* BrandItemView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D747CBA2B4BD0C60068B0D0 /* BrandItemView.swift */; };
+		5D747CBD2B4BD2970068B0D0 /* BrandGridView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D747CBC2B4BD2970068B0D0 /* BrandGridView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -60,6 +62,8 @@
 		5D747CB42B4A87A30068B0D0 /* ProductModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProductModel.swift; sourceTree = "<group>"; };
 		5D747CB62B4A883F0068B0D0 /* ProductItemView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProductItemView.swift; sourceTree = "<group>"; };
 		5D747CB82B4BD0560068B0D0 /* BrandModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BrandModel.swift; sourceTree = "<group>"; };
+		5D747CBA2B4BD0C60068B0D0 /* BrandItemView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BrandItemView.swift; sourceTree = "<group>"; };
+		5D747CBC2B4BD2970068B0D0 /* BrandGridView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BrandGridView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -181,6 +185,8 @@
 				5D747CB02B491F5E0068B0D0 /* SectionView.swift */,
 				5D747CB22B4A86C80068B0D0 /* TitleView.swift */,
 				5D747CB62B4A883F0068B0D0 /* ProductItemView.swift */,
+				5D747CBA2B4BD0C60068B0D0 /* BrandItemView.swift */,
+				5D747CBC2B4BD2970068B0D0 /* BrandGridView.swift */,
 			);
 			path = Home;
 			sourceTree = "<group>";
@@ -265,12 +271,14 @@
 				5D747C992B43FF780068B0D0 /* FooterView.swift in Sources */,
 				5D747CA32B47CC1A0068B0D0 /* FeaturedItemView.swift in Sources */,
 				5D747CB72B4A883F0068B0D0 /* ProductItemView.swift in Sources */,
+				5D747CBD2B4BD2970068B0D0 /* BrandGridView.swift in Sources */,
 				5D747C9B2B47BFFC0068B0D0 /* NavigationBarView.swift in Sources */,
 				5D747C792B43F8DA0068B0D0 /* TouchdownApp.swift in Sources */,
 				5D747CAF2B491E010068B0D0 /* CategoryGridView.swift in Sources */,
 				5D747CAB2B491BF30068B0D0 /* CategoryModel.swift in Sources */,
 				5D747C962B43FEAE0068B0D0 /* Constant.swift in Sources */,
 				5D747CB12B491F5E0068B0D0 /* SectionView.swift in Sources */,
+				5D747CBB2B4BD0C60068B0D0 /* BrandItemView.swift in Sources */,
 				5D747CAD2B491CA90068B0D0 /* CategoryItemView.swift in Sources */,
 				5D747CA52B47CD400068B0D0 /* FeaturedTabView.swift in Sources */,
 				5D747C9F2B47CAF00068B0D0 /* PlayerModel.swift in Sources */,
