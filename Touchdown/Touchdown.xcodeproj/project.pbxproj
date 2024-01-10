@@ -37,6 +37,7 @@
 		5D747CF72B4E57860068B0D0 /* NavigationBarDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D747CF62B4E57860068B0D0 /* NavigationBarDetailView.swift */; };
 		5D747CF92B4E59290068B0D0 /* HeaderDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D747CF82B4E59290068B0D0 /* HeaderDetailView.swift */; };
 		5D747CFB2B4E59E90068B0D0 /* TopPartDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D747CFA2B4E59E90068B0D0 /* TopPartDetailView.swift */; };
+		5D747CFD2B4E5CF80068B0D0 /* CustomShape.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D747CFC2B4E5CF80068B0D0 /* CustomShape.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -72,6 +73,7 @@
 		5D747CF62B4E57860068B0D0 /* NavigationBarDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationBarDetailView.swift; sourceTree = "<group>"; };
 		5D747CF82B4E59290068B0D0 /* HeaderDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeaderDetailView.swift; sourceTree = "<group>"; };
 		5D747CFA2B4E59E90068B0D0 /* TopPartDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TopPartDetailView.swift; sourceTree = "<group>"; };
+		5D747CFC2B4E5CF80068B0D0 /* CustomShape.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomShape.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -150,6 +152,7 @@
 			isa = PBXGroup;
 			children = (
 				5D747C952B43FEAE0068B0D0 /* Constant.swift */,
+				5D747CFC2B4E5CF80068B0D0 /* CustomShape.swift */,
 			);
 			path = Utility;
 			sourceTree = "<group>";
@@ -305,6 +308,7 @@
 				5D747CBB2B4BD0C60068B0D0 /* BrandItemView.swift in Sources */,
 				5D747CAD2B491CA90068B0D0 /* CategoryItemView.swift in Sources */,
 				5D747CA52B47CD400068B0D0 /* FeaturedTabView.swift in Sources */,
+				5D747CFD2B4E5CF80068B0D0 /* CustomShape.swift in Sources */,
 				5D747C9F2B47CAF00068B0D0 /* PlayerModel.swift in Sources */,
 				5D747CB92B4BD0560068B0D0 /* BrandModel.swift in Sources */,
 				5D747CB32B4A86C80068B0D0 /* TitleView.swift in Sources */,
