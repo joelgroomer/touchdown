@@ -20,7 +20,8 @@ struct ProductDetailView: View {
                 .safeAreaPadding(.top)
             
             // MARK: HEADER
-            Text(sampleProduct.name)
+            HeaderDetailView()
+                .padding(.horizontal)
             
             // MARK: DETAIL TOP PART
             // MARK: DETAIL BOTTOM PART

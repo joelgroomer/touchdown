@@ -35,6 +35,7 @@
 		5D747CBD2B4BD2970068B0D0 /* BrandGridView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D747CBC2B4BD2970068B0D0 /* BrandGridView.swift */; };
 		5D747CF42B4E560D0068B0D0 /* ProductDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D747CF32B4E560D0068B0D0 /* ProductDetailView.swift */; };
 		5D747CF72B4E57860068B0D0 /* NavigationBarDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D747CF62B4E57860068B0D0 /* NavigationBarDetailView.swift */; };
+		5D747CF92B4E59290068B0D0 /* HeaderDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D747CF82B4E59290068B0D0 /* HeaderDetailView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -68,6 +69,7 @@
 		5D747CBC2B4BD2970068B0D0 /* BrandGridView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BrandGridView.swift; sourceTree = "<group>"; };
 		5D747CF32B4E560D0068B0D0 /* ProductDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProductDetailView.swift; sourceTree = "<group>"; };
 		5D747CF62B4E57860068B0D0 /* NavigationBarDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationBarDetailView.swift; sourceTree = "<group>"; };
+		5D747CF82B4E59290068B0D0 /* HeaderDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeaderDetailView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -201,6 +203,7 @@
 			isa = PBXGroup;
 			children = (
 				5D747CF62B4E57860068B0D0 /* NavigationBarDetailView.swift */,
+				5D747CF82B4E59290068B0D0 /* HeaderDetailView.swift */,
 			);
 			path = Detail;
 			sourceTree = "<group>";
@@ -280,6 +283,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				5D747CA12B47CB200068B0D0 /* CodableBundleExtension.swift in Sources */,
+				5D747CF92B4E59290068B0D0 /* HeaderDetailView.swift in Sources */,
 				5D747C7B2B43F8DA0068B0D0 /* ContentView.swift in Sources */,
 				5D747C9D2B47C1250068B0D0 /* LogoView.swift in Sources */,
 				5D747C992B43FF780068B0D0 /* FooterView.swift in Sources */,
