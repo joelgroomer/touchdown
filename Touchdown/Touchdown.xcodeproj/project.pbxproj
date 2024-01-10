@@ -40,6 +40,7 @@
 		5D747CFD2B4E5CF80068B0D0 /* CustomShape.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D747CFC2B4E5CF80068B0D0 /* CustomShape.swift */; };
 		5D747CFF2B4E5EB30068B0D0 /* RatingsSizesDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D747CFE2B4E5EB30068B0D0 /* RatingsSizesDetailView.swift */; };
 		5D747D012B4E62560068B0D0 /* QuantityFavoriteDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D747D002B4E62560068B0D0 /* QuantityFavoriteDetailView.swift */; };
+		5D747D032B4E64840068B0D0 /* AddToCartDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D747D022B4E64840068B0D0 /* AddToCartDetailView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -78,6 +79,7 @@
 		5D747CFC2B4E5CF80068B0D0 /* CustomShape.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomShape.swift; sourceTree = "<group>"; };
 		5D747CFE2B4E5EB30068B0D0 /* RatingsSizesDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RatingsSizesDetailView.swift; sourceTree = "<group>"; };
 		5D747D002B4E62560068B0D0 /* QuantityFavoriteDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuantityFavoriteDetailView.swift; sourceTree = "<group>"; };
+		5D747D022B4E64840068B0D0 /* AddToCartDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddToCartDetailView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -216,6 +218,7 @@
 				5D747CFA2B4E59E90068B0D0 /* TopPartDetailView.swift */,
 				5D747CFE2B4E5EB30068B0D0 /* RatingsSizesDetailView.swift */,
 				5D747D002B4E62560068B0D0 /* QuantityFavoriteDetailView.swift */,
+				5D747D022B4E64840068B0D0 /* AddToCartDetailView.swift */,
 			);
 			path = Detail;
 			sourceTree = "<group>";
@@ -302,6 +305,7 @@
 				5D747C9D2B47C1250068B0D0 /* LogoView.swift in Sources */,
 				5D747C992B43FF780068B0D0 /* FooterView.swift in Sources */,
 				5D747CA32B47CC1A0068B0D0 /* FeaturedItemView.swift in Sources */,
+				5D747D032B4E64840068B0D0 /* AddToCartDetailView.swift in Sources */,
 				5D747CB72B4A883F0068B0D0 /* ProductItemView.swift in Sources */,
 				5D747CBD2B4BD2970068B0D0 /* BrandGridView.swift in Sources */,
 				5D747CFF2B4E5EB30068B0D0 /* RatingsSizesDetailView.swift in Sources */,

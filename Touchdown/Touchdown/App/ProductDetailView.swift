@@ -45,10 +45,11 @@ struct ProductDetailView: View {
                 
                 // QUANTITY + FAVORITE
                 QuantityFavoriteDetailView()
-                    .safeAreaPadding(.bottom)
+                    .padding(.bottom, 10)
                 
                 // ADD TO CART
-                Spacer()
+                AddToCartDetailView()
+                    .safeAreaPadding(.bottom)
                 
             } //: VStack
             .padding(.horizontal)
